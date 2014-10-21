@@ -1,5 +1,4 @@
 var zen = [
-
   "Anything added dilutes everything else.",
   "Approachable is better than simple.",
   "Avoid administrative distraction.",

@@ -13,7 +13,7 @@ Module that prints a random [GitHub Zen](https://api.github.com/zen).
 ## Usage
 
 ```
-$ npm install -g ghzen
+$ npm install ghzen -g
 (...)
 $ ghzen
 Anything added dilutes everything else.

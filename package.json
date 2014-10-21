@@ -10,6 +10,9 @@
     "istanbul": "^0.3.2",
     "mocha": "^1.21.5"
   },
+  "directories": {
+    "man": "./man"
+  },
   "homepage": "https://github.com/tallesl/ghzen",
   "keywords": [
     "github",
@@ -26,5 +29,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
