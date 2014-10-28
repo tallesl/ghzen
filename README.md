@@ -8,7 +8,7 @@
 
 [![npm](https://nodei.co/npm/ghzen.png?mini=true)](https://nodei.co/npm/ghzen/)
 
-Module that prints a random [GitHub Zen](https://api.github.com/zen).
+Randomly picks one of the phrases from [The Zen of GitHub](https://api.github.com/zen) and prints to stdout.
 
 ## Usage
 
