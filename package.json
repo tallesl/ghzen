@@ -1,6 +1,6 @@
 {
   "author": "Talles L <talleslasmar@gmail.com>",
-  "bin": "./bin",
+  "bin": "./bin/ghzen",
   "bugs": {
     "url": "https://github.com/tallesl/ghzen/issues"
   },
@@ -11,6 +11,7 @@
     "mocha": "^2.0.0"
   },
   "directories": {
+    "lib": "./lib",
     "man": "./man"
   },
   "homepage": "https://github.com/tallesl/ghzen",
