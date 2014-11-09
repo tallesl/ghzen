@@ -23,3 +23,4 @@ it('should return a random zen', function () {
     }),
     'The arrays aren\'t equal')
 })
+

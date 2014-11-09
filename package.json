@@ -22,8 +22,8 @@
     "github",
     "zen"
   ],
-  "license": "ISC",
-  "main": "index.js",
+  "license": "Fair",
+  "main": "./lib/zen.js",
   "name": "ghzen",
   "preferGlobal": "true",
   "repository": {
@@ -35,3 +35,4 @@
   },
   "version": "1.0.2"
 }
+
