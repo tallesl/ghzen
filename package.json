@@ -1,6 +1,6 @@
 {
   "author": "Talles L <talleslasmar@gmail.com>",
-  "bin": "./bin/ghzen",
+  "bin": "./bin/ghzen.js",
   "bugs": {
     "url": "https://github.com/tallesl/ghzen/issues"
   },
