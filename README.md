@@ -19,3 +19,8 @@ $ ghzen
 Anything added dilutes everything else.
 ```
 
+## Options
+
++ `-v` : print version
++ `-h` : print help
++ `-a` : print all
