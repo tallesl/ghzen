@@ -15,12 +15,8 @@ it('should return a random zen', function () {
   }
 
   random.sort()
+  zen.sort()
 
-  assert.ok(
-    zen.length == random.length &&
-    zen.every(function (e, i) {
-      return e == random[i]
-    }),
-    'The arrays aren\'t equal')
+  assert.strictEqual(zen.length, random.length, 'The array have different sizes')
+  assert.strictEqual(JSON.stringify(zen), JSON.stringify(random), 'The arrays aren\'t equal')
 })
-
