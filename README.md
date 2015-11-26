@@ -1,23 +1,25 @@
 # :octocat: The Zen of GitHub
 
-[![dependencies](https://david-dm.org/tallesl/ghzen.png)](https://david-dm.org/tallesl/ghzen)
-[![npm module](https://badge.fury.io/js/ghzen.png)](http://badge.fury.io/js/ghzen)
+[![][dependencies-img]][dependencies]
+[![][version-img]][version]
 
-[![npm](https://nodei.co/npm/ghzen.png?mini=true)](https://nodei.co/npm/ghzen/)
+[![][npm-img]][npm]
 
-Randomly picks one of the phrases from [The Zen of GitHub](https://api.github.com/zen) and prints to stdout.
+Displays one of the phrases from [The Zen of GitHub].
 
 ## Usage
 
 ```
-$ npm install ghzen -g
+$ npm install -g ghzen
 (...)
 $ ghzen
 Anything added dilutes everything else.
 ```
 
-## Options
-
-+ `-v` : print version
-+ `-h` : print help
-+ `-a` : print all
+[dependencies]:      https://david-dm.org/tallesl/ghzen
+[dependencies-img]:  https://david-dm.org/tallesl/ghzen.png
+[version]:           http://badge.fury.io/js/ghzen
+[version-img]:       https://badge.fury.io/js/ghzen.png
+[npm]:               https://nodei.co/npm/ghzen
+[npm-img]:           https://nodei.co/npm/ghzen.png?mini=true
+[The Zen of GitHub]: https://api.github.com/zen
