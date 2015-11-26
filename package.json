@@ -1,6 +1,6 @@
 {
   "author": "Talles L <talleslasmar@gmail.com>",
-  "bin": "./bin/ghzen.js",
+  "bin": "./index.js",
   "bugs": {
     "url": "https://github.com/tallesl/ghzen/issues"
   },
@@ -9,7 +9,6 @@
   },
   "description": "Displays one of The Zen of GitHub.",
   "directories": {
-    "lib": "./lib",
     "man": "./man"
   },
   "homepage": "https://github.com/tallesl/ghzen",
@@ -18,7 +17,7 @@
     "zen"
   ],
   "license": "Fair",
-  "main": "./lib/zen.js",
+  "main": "./zen.json",
   "name": "ghzen",
   "preferGlobal": "true",
   "repository": {
@@ -30,4 +29,3 @@
   },
   "version": "1.1.0"
 }
-
