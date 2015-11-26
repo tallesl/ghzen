@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const argv = require('minimist')(process.argv.slice(2))
+const argv = require('minimisty')._flags
   , pkg = require('./package.json')
   , zen = require('./zen')
 

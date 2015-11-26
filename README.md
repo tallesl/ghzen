@@ -1,4 +1,10 @@
-# :octocat: The Zen of GitHub
+<p align="center">
+    <a href="#the-zen-of-github">
+        <img alt="logo" src="asset/watts.jpg">
+    </a>
+</p>
+
+# The Zen of GitHub
 
 [![][dependencies-img]][dependencies]
 [![][version-img]][version]

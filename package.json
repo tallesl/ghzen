@@ -5,7 +5,7 @@
     "url": "https://github.com/tallesl/ghzen/issues"
   },
   "dependencies": {
-    "minimist": "^1.1.0"
+    "minimisty": "^1.0.3"
   },
   "description": "Displays one of The Zen of GitHub.",
   "directories": {
