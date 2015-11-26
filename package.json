@@ -7,7 +7,7 @@
   "dependencies": {
     "minimist": "^1.1.0"
   },
-  "description": "prints one of The Zen of GitHub",
+  "description": "Displays one of The Zen of GitHub.",
   "directories": {
     "lib": "./lib",
     "man": "./man"
