@@ -2,7 +2,7 @@
   "author": "Talles L <talleslasmar@gmail.com>",
   "bin": "./bin.js",
   "bugs": {
-    "url": "https://github.com/tallesl/ghzen/issues"
+    "url": "https://github.com/tallesl/node-ghzen/issues"
   },
   "dependencies": {
     "minimisty": "^1.1.1"
@@ -14,7 +14,6 @@
   "directories": {
     "man": "./man"
   },
-  "homepage": "https://github.com/tallesl/ghzen",
   "keywords": [
     "github",
     "zen"
@@ -24,7 +23,7 @@
   "preferGlobal": "true",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tallesl/ghzen.git"
+    "url": "https://github.com/tallesl/node-ghzen.git"
   },
   "scripts": {
     "test": "standard"
