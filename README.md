@@ -11,8 +11,8 @@
 
 Displays one of the phrases from [The Zen of GitHub].
 
-[dependencies]:      https://david-dm.org/tallesl/ghzen
-[dependencies-img]:  https://david-dm.org/tallesl/ghzen.png
+[dependencies]:      https://david-dm.org/tallesl/node-ghzen
+[dependencies-img]:  https://david-dm.org/tallesl/node-ghzen.png
 [version]:           http://badge.fury.io/js/ghzen
 [version-img]:       https://badge.fury.io/js/ghzen.png
 [The Zen of GitHub]: https://api.github.com/zen
